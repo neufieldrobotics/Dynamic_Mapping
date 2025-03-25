@@ -28,7 +28,7 @@ For 3D and 4D reconstruction, we use the following codebases:
 
 ## Dataset
 We provide a dataset of dynamic scenes captured using our system. The raw dataset can be downloaded from [here]()
-The dataset folderr contains the following:
+The dataset folder contains the following:
 - Rosbag files of the stereo camera and GPS data.
 - Calibration files for the stereo camera.
 
