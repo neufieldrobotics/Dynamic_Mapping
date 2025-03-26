@@ -27,12 +27,13 @@ For 3D and 4D reconstruction, we use the following codebases:
 - [VGGSFM](https://vggsfm.github.io/)
 
 ## Dataset
-We provide a dataset of dynamic scenes captured using our system. The raw dataset can be downloaded from [here](https://drive.google.com/drive/folders/1jDzJ7APKrxKKnb07WjBD0iBfiOWMMswl?usp=sharing)
+We provide a dataset of dynamic scenes captured using our system. The raw dataset can be downloaded from <a href="https://drive.google.com/drive/folders/1jDzJ7APKrxKKnb07WjBD0iBfiOWMMswl?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>
 The dataset folder contains the following:
 - Rosbag files of the stereo camera and GPS data.
 - Calibration files for the stereo camera.
 
-We also provide the processed dataset [here](https://drive.google.com/drive/folders/1jDzJ7APKrxKKnb07WjBD0iBfiOWMMswl?usp=sharing)
+We also provide the processed dataset <a href="https://drive.google.com/drive/folders/1jDzJ7APKrxKKnb07WjBD0iBfiOWMMswl?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.
+
 The processed dataset contains the following:
 - Extracted images, timestamps, and GPS data.
 - Small sequences of images for 4D reconstruction. Each sequence contains the following:
